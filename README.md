@@ -44,7 +44,7 @@ UrbanMart-SQL-Project/
 ├── documentation/
 │   └── DATA_DICTIONARY.md
 └── screenshots/
-    └── (add your own MySQL Workbench screenshots here)
+    
 ```
 
 ## Database schema
@@ -141,4 +141,4 @@ The data-quality queries are diagnostic checks. A returned row should be investi
 
 ## Author
 
-Add your name and GitHub profile here before publishing.
+** Aditya Puri **
