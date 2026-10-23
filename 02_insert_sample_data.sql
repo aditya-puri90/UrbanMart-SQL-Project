@@ -5,16 +5,16 @@
 -- INSERT VALUES IN TABLES
 
 INSERT INTO customers VALUES
-(1,'Rahul Sharma','rahul.sharma@gmail.com','9876543210','Pune','Maharashtra','2025-01-15','Regular'),
-(2,'Priya Patil','priya.patil@gmail.com','9823456712','Mumbai','Maharashtra','2025-02-10','Premium'),
-(3,'Amit Joshi','amit.joshi@gmail.com','9765432189','Bengaluru','Karnataka','2025-02-22','Regular'),
-(4,'Sneha Kulkarni','sneha.kulkarni@gmail.com','9812345678','Pune','Maharashtra','2025-03-05','Premium'),
-(5,'Rohan Deshmukh','rohan.deshmukh@gmail.com','9898765432','Nagpur','Maharashtra','2025-03-18','New'),
-(6,'Neha Verma','neha.verma@gmail.com','9871234567','Delhi','Delhi','2025-04-02','Regular'),
-(7,'Karan Mehta','karan.mehta@gmail.com','9811122233','Ahmedabad','Gujarat','2025-04-15','Regular'),
-(8,'Pooja Shah','pooja.shah@gmail.com','9822334455','Mumbai','Maharashtra','2025-05-01','Premium'),
-(9,'Vivek Nair','vivek.nair@gmail.com','9734567890','Kochi','Kerala','2025-05-20','New'),
-(10,'Anjali Rao','anjali.rao@gmail.com','9867451230','Hyderabad','Telangana','2025-06-08','Regular');
+(1,'Rahul Sharma','rahul.sharma@gmail.com','1000000000','Pune','Maharashtra','2025-01-15','Regular'),
+(2,'Priya Patil','priya.patil@gmail.com','20000000000','Mumbai','Maharashtra','2025-02-10','Premium'),
+(3,'Amit Joshi','amit.joshi@gmail.com','30000000000','Bengaluru','Karnataka','2025-02-22','Regular'),
+(4,'Sneha Kulkarni','sneha.kulkarni@gmail.com','4812345678','Pune','Maharashtra','2025-03-05','Premium'),
+(5,'Rohan Deshmukh','rohan.deshmukh@gmail.com','2898765432','Nagpur','Maharashtra','2025-03-18','New'),
+(6,'Neha Verma','neha.verma@gmail.com','1871234567','Delhi','Delhi','2025-04-02','Regular'),
+(7,'Karan Mehta','karan.mehta@gmail.com','0811122233','Ahmedabad','Gujarat','2025-04-15','Regular'),
+(8,'Pooja Shah','pooja.shah@gmail.com','3822334455','Mumbai','Maharashtra','2025-05-01','Premium'),
+(9,'Vivek Nair','vivek.nair@gmail.com','1734567890','Kochi','Kerala','2025-05-20','New'),
+(10,'Anjali Rao','anjali.rao@gmail.com','2867451230','Hyderabad','Telangana','2025-06-08','Regular');
 
 INSERT INTO products VALUES
 (101,'Wireless Mouse','Electronics','Logitech',799.00,120,'TechWorld Distributors'),
